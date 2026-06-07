@@ -31,6 +31,8 @@ The site targets students, researchers, and anyone who runs statistical tests an
 | Binomial Distribution Calculator | [/binomial-distribution-calculator/](https://numbercalcs.com/binomial-distribution-calculator/) |
 | Power Analysis Calculator | [/power-analysis-calculator/](https://numbercalcs.com/power-analysis-calculator/) |
 
+Both reference tables are interactive: the z-score table has a typed z ↔ probability lookup (both directions), and the chi-square table computes exact critical values for any df up to 10,000.
+
 ### Languages
 
 English · Türkçe · Українська
@@ -66,6 +68,8 @@ Site; istatistiksel testler yapan ve çıktıyı anlamak isteyen öğrencilere, 
 | Binom Dağılım Hesaplayıcı | [/tr/binom-dagilimi-hesaplayici/](https://numbercalcs.com/tr/binom-dagilimi-hesaplayici/) |
 | Güç Analizi Hesaplayıcı | [/tr/guc-analizi-hesaplayici/](https://numbercalcs.com/tr/guc-analizi-hesaplayici/) |
 
+Her iki referans tablosu da etkileşimlidir: z skoru tablosunda yazarak z ↔ olasılık araması yapılır; ki-kare tablosu 10.000'e kadar her df için kesin kritik değeri hesaplar.
+
 ---
 
 <a name="українська"></a>
@@ -97,3 +101,5 @@ Site; istatistiksel testler yapan ve çıktıyı anlamak isteyen öğrencilere, 
 | Калькулятор біноміального розподілу | [/uk/kalkulyator-binomialnoho-rozpodilu/](https://numbercalcs.com/uk/kalkulyator-binomialnoho-rozpodilu/) |
 | Калькулятор аналізу потужності | [/uk/kalkulyator-analizu-potuzhnosti/](https://numbercalcs.com/uk/kalkulyator-analizu-potuzhnosti/) |
 
+
+Обидві довідкові таблиці інтерактивні: у таблиці z-оцінок працює пошук z ↔ імовірність, а таблиця хі-квадрат обчислює точні критичні значення для будь-якого df до 10 000.
